@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs-sourceeditor", "cs-sourceeditor\cs-sourceeditor.csproj", "{705729DF-2A33-4433-9C1B-5BF13434C533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{FEB01CD0-E2B1-46FD-A7D0-723F7AAF1E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{705729DF-2A33-4433-9C1B-5BF13434C533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705729DF-2A33-4433-9C1B-5BF13434C533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705729DF-2A33-4433-9C1B-5BF13434C533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705729DF-2A33-4433-9C1B-5BF13434C533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB01CD0-E2B1-46FD-A7D0-723F7AAF1E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB01CD0-E2B1-46FD-A7D0-723F7AAF1E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB01CD0-E2B1-46FD-A7D0-723F7AAF1E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB01CD0-E2B1-46FD-A7D0-723F7AAF1E50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

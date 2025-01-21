@@ -1,0 +1,6 @@
+C:\Users\czajk\source\repos\cs-sourceeditor\cs-sourceeditor\bin\Debug\cs-sourceeditor.dll
+C:\Users\czajk\source\repos\cs-sourceeditor\cs-sourceeditor\bin\Debug\cs-sourceeditor.pdb
+C:\Users\czajk\source\repos\cs-sourceeditor\cs-sourceeditor\obj\Debug\cs-sourceeditor.csproj.AssemblyReference.cache
+C:\Users\czajk\source\repos\cs-sourceeditor\cs-sourceeditor\obj\Debug\cs-sourceeditor.csproj.CoreCompileInputs.cache
+C:\Users\czajk\source\repos\cs-sourceeditor\cs-sourceeditor\obj\Debug\cs-sourceeditor.dll
+C:\Users\czajk\source\repos\cs-sourceeditor\cs-sourceeditor\obj\Debug\cs-sourceeditor.pdb
